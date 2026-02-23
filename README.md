@@ -1,9 +1,4 @@
-# FUTURE_DS_02 – Customer Retention & Churn Analysis
-
------
-
-## Internship Track
-Data Science & Analytics – Future Interns
+# Customer Retention & Churn Analysis
 
 ---
 
